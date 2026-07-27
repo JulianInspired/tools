@@ -1,0 +1,8 @@
+streamlit
+playwright
+requests
+pandas
+openpyxl
+segno
+
+.venv/bin/pip install segno
